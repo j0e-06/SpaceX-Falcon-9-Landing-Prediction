@@ -13,3 +13,7 @@ which directly impacts launch cost estimation.
 ## Lab 2: Web scraping Falcon 9 and Falcon Heavy Launches Records from Wikipedia
 - Extract a Falcon 9 launch records HTML table from Wikipedia 
 - Parse the table and convert it into a Pandas data frame
+
+## Lab 3: Data Wrangling
+- Exploratory Data Analysis 
+- Determine Training Labels
