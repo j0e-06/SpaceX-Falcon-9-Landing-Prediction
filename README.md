@@ -17,3 +17,8 @@ which directly impacts launch cost estimation.
 ## Lab 3: Data Wrangling
 - Exploratory Data Analysis 
 - Determine Training Labels
+
+## Lab 4: Complete the EDA with SQL
+- Understand the Spacex DataSet
+- Load the dataset into the corresponding table in a Db2 database
+- Execute SQL queries to answer assignment questions
