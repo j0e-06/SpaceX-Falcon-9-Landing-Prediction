@@ -22,3 +22,7 @@ which directly impacts launch cost estimation.
 - Understand the Spacex DataSet
 - Load the dataset into the corresponding table in a Db2 database
 - Execute SQL queries to answer assignment questions
+
+## Lab 5: EDA with Visualization
+- Exploratory Data Analysis
+- Preparing Data Feature Engineering
