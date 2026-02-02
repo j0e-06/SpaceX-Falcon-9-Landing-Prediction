@@ -31,3 +31,11 @@ which directly impacts launch cost estimation.
 - TASK 1: Mark all launch sites on a map
 - TASK 2: Mark the success/failed launches for each site on the map
 - TASK 3: Calculate the distances between a launch site to its proximities
+
+## Lab 8: Complete the Machine Learning Prediction lab
+- Perform exploratory Data Analysis and determine Training Labels:
+Create a column for the class.
+Standardize the data.
+Split into training data and test data.
+- Find best Hyperparameter for SVM, Classification Trees and Logistic Regression:
+Find the method performs best using test data.
