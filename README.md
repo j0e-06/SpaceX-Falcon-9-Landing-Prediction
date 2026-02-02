@@ -40,8 +40,8 @@ which directly impacts launch cost estimation.
 
 ## Lab 8: Complete the Machine Learning Prediction lab
 - Perform exploratory Data Analysis and determine Training Labels:
-Create a column for the class/n
-Standardize the data/n
-Split into training data and test data/n
+Create a column for the class.
+Standardize the data.
+Split into training data and test data.
 - Find best Hyperparameter for SVM, Classification Trees and Logistic Regression:
-Find the method performs best using test data/n
+Find the method performs best using test data.
