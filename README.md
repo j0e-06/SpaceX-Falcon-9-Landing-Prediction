@@ -32,6 +32,12 @@ which directly impacts launch cost estimation.
 - TASK 2: Mark the success/failed launches for each site on the map
 - TASK 3: Calculate the distances between a launch site to its proximities
 
+## Lab 7: Build an Interactive Dashboard with Plotly Dash
+- TASK 1: Add a Launch Site Drop-down Input Component
+- TASK 2: Add a callback function to render success-pie-chart based on selected site dropdown
+- TASK 3: Add a Range Slider to Select Payload
+- TASK 4: Add a callback function to render the success-payload-scatter-chart scatter plot
+
 ## Lab 8: Complete the Machine Learning Prediction lab
 - Perform exploratory Data Analysis and determine Training Labels:
 Create a column for the class.
