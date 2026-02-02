@@ -26,3 +26,8 @@ which directly impacts launch cost estimation.
 ## Lab 5: EDA with Visualization
 - Exploratory Data Analysis
 - Preparing Data Feature Engineering
+
+## Lab 6: Interactive Visual Analytics with Folium
+- TASK 1: Mark all launch sites on a map
+- TASK 2: Mark the success/failed launches for each site on the map
+- TASK 3: Calculate the distances between a launch site to its proximities
